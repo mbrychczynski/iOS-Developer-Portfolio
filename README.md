@@ -107,44 +107,35 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Bookworm]()
-
+App to track which books users read and what users thought of them.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
->|            |              |
+>|  iPadOS    |  Core Data   |
+>|            | SortDescriptor |
 >|            |              |
 
 ## [Cupcake Corner]()
-
+Multi-screen app for ordering cupcakes
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
+>|  iPadOS    |  URLSession  |
 >|            |              |
 >|            |              |
 
 ## [Habit tracking]()
-
-
->| Platforms  | Technologies |
->| ---------- | ------------ |
->|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
->|            |              |
->|            |              |
-
-## [Drawing]()
-
+Habit-tracking app, for people who want to keep track of how much they do certain things.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
+>|  iPadOS    | UserDefaults |
 >|            |              |
 >|            |              |
+
 
 ## [Moonshot]()
 The app lets users learn about the missions and astronauts that formed NASA’s Apollo space program. 
