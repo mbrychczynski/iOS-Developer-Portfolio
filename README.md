@@ -17,7 +17,7 @@ This app allows users to add, reorder, and delete tasks, as well as mark them as
 >|            | UserDefaults |
 
 ## [Snow Seeker](https://github.com/mbrychczynski/swift-iOS/tree/main/SnowSeeker)
-An app to let users browse ski resorts around the world, to help them find one suitable for their next holiday. User can mark favorite resort. 
+An app to let users browse ski resorts around the world, to help them find one suitable for their next holiday. Users can mark favorite resort. 
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
@@ -27,7 +27,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [High Rollers]()
-
 
 
 >| Platforms  | Technologies |
@@ -40,7 +39,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 ## [Layout and geometry]()
 
 
-
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
@@ -49,7 +47,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Flashzilla]()
-
 
 
 >| Platforms  | Technologies |
@@ -62,7 +59,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 ## [Hot Prospects]()
 
 
-
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
@@ -71,7 +67,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Bucket List]()
-
 
 
 >| Platforms  | Technologies |
@@ -84,7 +79,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 ## [Instafilter]()
 
 
-
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
@@ -93,7 +87,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Friendface]()
-
 
 
 >| Platforms  | Technologies |
@@ -106,7 +99,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 ## [Core Data]()
 
 
-
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
@@ -115,7 +107,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Bookworm]()
-
 
 
 >| Platforms  | Technologies |
@@ -128,7 +119,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 ## [Cupcake Corner]()
 
 
-
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
@@ -137,7 +127,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Habit tracking]()
-
 
 
 >| Platforms  | Technologies |
@@ -150,7 +139,6 @@ An app to let users browse ski resorts around the world, to help them find one s
 ## [Drawing]()
 
 
-
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
@@ -159,30 +147,27 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Moonshot]()
-
-
+The app lets users learn about the missions and astronauts that formed NASA’s Apollo space program. 
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
+>|  iPadOS    | GeometryReader |
 >|            |              |
 >|            |              |
 
 ## [iExpense]()
-
-
+iExpense is an expense tracker that separates personal costs from business costs. At its core, this is an app with a form (how much did the user spend?) and a list (here are the amounts the user spent).
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
->|            |              |
+>|  iPadOS    | @StateObject |
+>|            | UserDefaults |
 >|            |              |
 
 ## [Edutainment]()
-
-
+The app for kids to help them practice multiplication tables – “What is 7 x 8?” and so on.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
@@ -192,52 +177,42 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Animation]()
-
-
+Technique project using animation
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
+>|  iPadOS    |  Animations  |
 >|            |              |
 >|            |              |
 
 ## [Word Scramble]()
-
-
+The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
->|            |              |
+>|  iPadOS    |    Bundle    |
+>|            |UITextChecker |
 >|            |              |
 
 ## [BetterRest]()
+The app is designed to help coffee drinkers get a good night’s sleep by asking them three questions:
+* When do they want to wake up?
+* Roughly how many hours of sleep do they want?
+* How many cups of coffee do they drink per day?
 
-
+Once the user gives those three values, the app will feed them into Core ML to get a result telling the user when he/she ought to go to bed.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
+>|  iPadOS    |    Core ML   |
 >|            |              |
 >|            |              |
 
 ## [Rock, Paper, Scissors]()
-
-
-
->| Platforms  | Technologies |
->| ---------- | ------------ |
->|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
->|            |              |
->|            |              |
-
-## [Views and modifiers]()
-
-
+Simple game Rock, Paper, Scissors
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
@@ -247,18 +222,17 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Guess the Flag]()
-
-
+A guessing game that helps users learn some of the many flags of the world.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
+>|  iPadOS    |   Alerts     |
 >|            |              |
 >|            |              |
 
 ## [Converter]()
-An app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the output of the conversion. App is handling converting of temperature, time, distance and mass.
+An app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the conversion output. The app handles converting of temperature, time, distance and mass.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
@@ -275,4 +249,4 @@ My first iOS App. A check-splitting app that you might use after eating at a res
 >|  iPadOS    |    @State    |
 >|            |  @FocusState |
 
-In this project, I learned about the basic structure of SwiftUI apps. I also learned how to build forms and sections, create navigation views and navigation bar titles. Additionally, I discovered how to store program state using the @State and @FocusState property wrappers. I gained knowledge on creating user interface controls such as TextField and Picker, and I learned how to generate views in a loop using ForEach.
+In this project, I learned about the basic structure of SwiftUI apps. I also learned how to build forms and sections, and create navigation views and navigation bar titles. Additionally, I discovered how to store program state using the @State and @FocusState property wrappers. I learned how to create user interface controls such as TextField and Picker and how to generate views in a loop using ForEach.
