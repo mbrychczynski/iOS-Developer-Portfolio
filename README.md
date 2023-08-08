@@ -87,17 +87,7 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 
 ## [Friendface]()
-
-
->| Platforms  | Technologies |
->| ---------- | ------------ |
->|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
->|            |              |
->|            |              |
-
-## [Core Data]()
-
+The app downloads and decodes JSON from the internet and then shows it in a list.
 
 >| Platforms  | Technologies |
 >| ---------- | ------------ |
