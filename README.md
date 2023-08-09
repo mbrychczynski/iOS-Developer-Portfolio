@@ -29,6 +29,8 @@ iPad Pro (12.9-inch) Mockup:
 ## [Snow Seeker](https://github.com/mbrychczynski/swift-iOS/tree/main/SnowSeeker)
 An app to let users browse ski resorts around the world, to help them find one suitable for their next holiday. Users can mark their favourite resort. 
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -43,6 +45,8 @@ An app to let users browse ski resorts around the world, to help them find one s
 ## [High Rollers](https://github.com/mbrychczynski/swift-iOS/tree/main/RollDice)
 The app simulates random dice rolls on behalf of the user, adding haptic feedback to bring it to life, and permanent storage for later reference.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -58,6 +62,8 @@ The app simulates random dice rolls on behalf of the user, adding haptic feedbac
 ## [Flashzilla]()
 A Flashzilla app is a digital tool designed for learning and memorization, where users create virtual cards with questions on one side and answers on the other, helping them study and reinforce knowledge efficiently.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -73,6 +79,8 @@ A Flashzilla app is a digital tool designed for learning and memorization, where
 ## [Hot Prospects](https://github.com/mbrychczynski/swift-iOS/tree/main/HotProspects)
 The app allows users to generate a QR code with basic user data. After generating the QR code, the user can exchange his electronic business card with other people. The application saves the data of scanned electronic business cards, after which the user can move the contact to the designed categories.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -88,6 +96,8 @@ The app allows users to generate a QR code with basic user data. After generatin
 ## [Bucket List](https://github.com/mbrychczynski/swift-iOS/tree/main/BucketList)
 The app lets the user build a private list of places on the map that they intend to visit one day, add a description for that place, look up interesting places that are nearby, and save it all to the iOS storage for later.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="BucketList1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/61ba0040-14c9-4ee0-b542-13e424647753">
 <img height="350" alt="BucketList2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/07526475-c033-4c67-b72c-4d31f6e37d67">
 <img height="350" alt="BucketList3" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/a45efaaf-004a-424a-b305-aa7559690fd3">
@@ -105,6 +115,8 @@ The app lets the user build a private list of places on the map that they intend
 ## [Instafilter]()
 The app lets the user import photos from their library, and then modify them using various image effects. 
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -119,6 +131,8 @@ The app lets the user import photos from their library, and then modify them usi
 The app downloads and decodes JSON from the internet and then shows it in a list.
 Friendface app uses Core Data to store a cache of data, so it works just as well offline as online.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -131,9 +145,19 @@ Friendface app uses Core Data to store a cache of data, so it works just as well
 ## [Bookworm](https://github.com/mbrychczynski/swift-iOS/tree/main/Bookworm)
 App to track which books users read and what users thought of them.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="Bookworm1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/34d4a50e-efc1-454d-a8e8-bf79e8ebbc8d">
 <img height="350" alt="Bookworm2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/d49ebc64-3f47-45ce-a752-7ac1075d533b">
 <img height="350" alt="Bookworm3" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/d03cf850-6dc7-4f20-9817-937dbe3fa088">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="Bookworm1.png" src="/Mockups/Bookworm1.png" height="250">
+<img alt="Bookworm2.png" src="/Mockups/Bookworm2.png" height="250">
+<img alt="Bookworm3.png" src="/Mockups/Bookworm3.png" height="250">
+<img alt="Bookworm4.png" src="/Mockups/Bookworm4.png" height="250">
+<img alt="Bookworm5.png" src="/Mockups/Bookworm5.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
@@ -144,6 +168,8 @@ App to track which books users read and what users thought of them.
 ## [Cupcake Corner](https://github.com/mbrychczynski/swift-iOS/tree/main/CupcakeCorner)
 Multi-screen app for ordering cupcakes
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="CupcakeCorner1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/6a73c8af-d108-40d7-a0d9-4494d42ac4aa">
 <img height="350" alt="CupcakeCorner2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/9ce3b13b-2721-4736-bc76-96b821917d8c">
 <img height="350" alt="CupcakeCorner3" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/bdfe4cf2-5f36-4e82-ae7b-3bbed5278053">
@@ -156,6 +182,8 @@ Multi-screen app for ordering cupcakes
 ## [Habit tracking]()
 Habit-tracking app, for people who want to keep track of how much they do certain things.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -169,6 +197,8 @@ Habit-tracking app, for people who want to keep track of how much they do certai
 ## [Moonshot]()
 The app lets users learn about the missions and astronauts that formed NASA’s Apollo space program. 
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -181,6 +211,8 @@ The app lets users learn about the missions and astronauts that formed NASA’s 
 ## [iExpense]()
 iExpense is an expense tracker that separates personal costs from business costs. At its core, this is an app with a form (how much did the user spend?) and a list (here are the amounts the user spent).
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -194,6 +226,8 @@ iExpense is an expense tracker that separates personal costs from business costs
 ## [Edutainment]()
 The app for kids to help them practice multiplication tables – “What is 7 x 8?” and so on.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -206,6 +240,8 @@ The app for kids to help them practice multiplication tables – “What is 7 x 
 ## [Animation]()
 Technique project using animation
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -218,6 +254,8 @@ Technique project using animation
 ## [Word Scramble]()
 The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -236,6 +274,8 @@ The app is designed to help coffee drinkers get a good night’s sleep by asking
 
 Once the user gives those three values, the app will feed them into Core ML to get a result telling the user when he/she ought to go to bed.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img alt="BetterRest1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/29f49c3f-c283-48a3-bb4f-d4ad485b9977" height="350">
 <img alt="BetterRest2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/5388bf61-ef8d-452e-b034-4348759afb11" height="350">
 <img alt="BetterRest3" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/a4fd56b2-8a57-4040-a6e1-e5bff2c82a64" height="350">
@@ -248,6 +288,8 @@ Once the user gives those three values, the app will feed them into Core ML to g
 ## [Rock, Paper, Scissors]()
 Simple game Rock, Paper, Scissors
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -260,6 +302,8 @@ Simple game Rock, Paper, Scissors
 ## [Guess the Flag]()
 A guessing game that helps users learn some of the many flags of the world.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
@@ -272,6 +316,8 @@ A guessing game that helps users learn some of the many flags of the world.
 ## [Converter](https://github.com/mbrychczynski/swift-iOS/tree/main/Converter)
 An app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the conversion output. The app handles converting of temperature, time, distance and mass.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="Converter1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/e69f0a95-9a04-41db-b1a8-99a6a3582d4c">
 <img height="350" alt="Converter2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/d09bca0e-32c3-4fe2-9fb1-c540bbac0c57">
 
@@ -284,6 +330,8 @@ An app that handles unit conversions: users will select an input unit and an out
 ## [We Split](https://github.com/mbrychczynski/swift-iOS/tree/main/WeSplitSwiftUI)
 My first iOS App. A check-splitting app that you might use after eating at a restaurant – you enter the cost of your food, select how much of a tip you want to leave, and how many people you’re with, and it will tell you how much each person needs to pay.
 
+iPhone 13 Pro Max Mockup:
+<br>
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
 <img height="350" alt="" src="">
