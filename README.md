@@ -33,8 +33,8 @@ iPhone 14 Pro Max Mockup:
 <br>
 <img height="350" alt="iPhoneSnowSeeker1" src="/Mockups/iPhoneSnowSeeker1.png">
 <img height="350" alt="iPhoneSnowSeeker2" src="/Mockups/iPhoneSnowSeeker2.png">
-<img height="350" alt="iPhoneSnowSeeker3" src="/Mockups/iPhoneSnowSeeker3.jpg">
-<img height="350" alt="iPhoneSnowSeeker4" src="/Mockups/iPhoneSnowSeeker4.jpg">
+<img height="150" alt="iPhoneSnowSeeker3" src="/Mockups/iPhoneSnowSeeker3.jpg">
+<img height="150" alt="iPhoneSnowSeeker4" src="/Mockups/iPhoneSnowSeeker4.jpg">
 
 iPad Pro (12.9-inch) Mockup:
 <br>
