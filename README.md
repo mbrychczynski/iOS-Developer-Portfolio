@@ -27,7 +27,7 @@ An app to let users browse ski resorts around the world, to help them find one s
 >|            |              |
 >|            |              |
 
-## [High Rollers]()
+## [High Rollers](https://github.com/mbrychczynski/swift-iOS/tree/main/RollDice)
 The app simulates random dice rolls on behalf of the user, adding haptic feedback to bring it to life, and permanent storage for later reference.
 
 >| Platforms  | Technologies |
@@ -49,7 +49,7 @@ A Flashzilla app is a digital tool designed for learning and memorization, where
 >|            | UINotificationFeedbackGenerator |
 >|            |   scenePhase |
 
-## [Hot Prospects]()
+## [Hot Prospects](https://github.com/mbrychczynski/swift-iOS/tree/main/HotProspects)
 The app allows users to generate a QR code with basic user data. After generating the QR code, the user can exchange his electronic business card with other people. The application saves the data of scanned electronic business cards, after which the user can move the contact to the designed categories.
 
 >| Platforms  | Technologies |
