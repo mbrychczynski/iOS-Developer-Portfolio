@@ -38,9 +38,7 @@ iPhone 13 Pro Max Mockup:
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
->|            |              |
->|            |              |
+>|  iPadOS    |  @Environment(\.horizontalSizeClass) |
 
 ## [High Rollers](https://github.com/mbrychczynski/swift-iOS/tree/main/RollDice)
 The app simulates random dice rolls on behalf of the user, adding haptic feedback to bring it to life, and permanent storage for later reference.
