@@ -76,7 +76,7 @@ The app allows users to generate a QR code with basic user data. After generatin
 >|            | UserNotifications |
 >|            | UserDefaults |
 
-## [Bucket List]()
+## [Bucket List](https://github.com/mbrychczynski/swift-iOS/tree/main/BucketList)
 The app lets the user build a private list of places on the map that they intend to visit one day, add a description for that place, look up interesting places that are nearby, and save it all to the iOS storage for later.
 
 <img height="350" alt="BucketList1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/61ba0040-14c9-4ee0-b542-13e424647753">
@@ -132,7 +132,7 @@ App to track which books users read and what users thought of them.
 >|  iPadOS    |  Core Data   |
 >|            | SortDescriptor |
 
-## [Cupcake Corner]()
+## [Cupcake Corner](https://github.com/mbrychczynski/swift-iOS/tree/main/CupcakeCorner)
 Multi-screen app for ordering cupcakes
 
 <img height="350" alt="CupcakeCorner1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/6a73c8af-d108-40d7-a0d9-4494d42ac4aa">
@@ -260,7 +260,7 @@ A guessing game that helps users learn some of the many flags of the world.
 >|    iOS     |    SwiftUI   |
 >|  iPadOS    |   Alerts     |
 
-## [Converter]()
+## [Converter](https://github.com/mbrychczynski/swift-iOS/tree/main/Converter)
 An app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the conversion output. The app handles converting of temperature, time, distance and mass.
 
 <img height="350" alt="Converter1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/e69f0a95-9a04-41db-b1a8-99a6a3582d4c">
