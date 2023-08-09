@@ -29,11 +29,17 @@ iPad Pro (12.9-inch) Mockup:
 ## [Snow Seeker](https://github.com/mbrychczynski/swift-iOS/tree/main/SnowSeeker)
 An app to let users browse ski resorts around the world, to help them find one suitable for their next holiday. Users can mark their favourite resort. 
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="iPhoneSnowSeeker1" src="/Mockups/iPhoneSnowSeeker1.png">
+<img height="350" alt="iPhoneSnowSeeker2" src="/Mockups/iPhoneSnowSeeker2.png">
+<img height="350" alt="iPhoneSnowSeeker3" src="/Mockups/iPhoneSnowSeeker3.png">
+<img height="350" alt="iPhoneSnowSeeker4" src="/Mockups/iPhoneSnowSeeker4.png">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="iPadSnowSeeker1" src="/Mockups/iPadSnowSeeker1.PNG" height="250">
+<img alt="iPadSnowSeeker2" src="/Mockups/iPadSnowSeeker2.PNG" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
