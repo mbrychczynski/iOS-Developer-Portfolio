@@ -10,11 +10,12 @@ This app allows users to add, reorder, and delete tasks, as well as mark them as
 <img height="350" alt="5" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/97ccf4d1-b94f-4c41-91af-ec0f7798c7b6">
 
 >| Platforms  | Technologies |
->| ---------- | ------------ |
->|    iOS     |    MVVM      |
->|  iPadOS    |   SwiftUI    |
+>|:----------:|:------------:|
+>|    iOS     |     MVVM     |
+>|            |    iPadOS    |
 >|            |  Animations  |
 >|            | UserDefaults |
+>
 
 ## [Snow Seeker](https://github.com/mbrychczynski/swift-iOS/tree/main/SnowSeeker)
 An app to let users browse ski resorts around the world, to help them find one suitable for their next holiday. Users can mark their favourite resort. 
