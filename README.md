@@ -49,28 +49,40 @@ iPad Pro (12.9-inch) Mockup:
 ## [High Rollers](https://github.com/mbrychczynski/swift-iOS/tree/main/RollDice)
 The app simulates random dice rolls on behalf of the user, adding haptic feedback to bring it to life, and permanent storage for later reference.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="RollDice1" src="/Mockups/RollDice1.png">
+<img height="350" alt="RollDice2" src="/Mockups/RollDice2.png">
+<img height="350" alt="RollDice3" src="/Mockups/RollDice3.png">
+<img height="150" alt="RollDice4" src="/Mockups/RollDice4.png">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |  LazyVGrid   |
+>|            |  LazyVGrid   |
 >|            |  Animations  |
 >|            | UIImpactFeedbackGenerator |
 >|            |  FileManager |
 
-## [Flashzilla]()
+## [Flashzilla](https://github.com/mbrychczynski/swift-iOS/tree/main/Flashzilla)
 A Flashzilla app is a digital tool designed for learning and memorization, where users create virtual cards with questions on one side and answers on the other, helping them study and reinforce knowledge efficiently.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="150" alt="iPhoneFlashzilla1" src="/Mockups/iPhoneFlashzilla1.png">
+<img height="150" alt="iPhoneFlashzilla2" src="/Mockups/iPhoneFlashzilla2.png">
+<img height="150" alt="iPhoneFlashzilla3" src="/Mockups/iPhoneFlashzilla3.png">
+<img height="150" alt="iPhoneFlashzilla4" src="/Mockups/iPhoneFlashzilla4.png">
+<img height="150" alt="iPhoneFlashzilla5" src="/Mockups/iPhoneFlashzilla5.png">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="iPadFlashzilla1.png" src="/Mockups/iPadFlashzilla1.png" height="250">
+<img alt="iPadFlashzilla2.png" src="/Mockups/iPadFlashzilla2.png" height="250">
+<img alt="iPadFlashzilla3.png" src="/Mockups/iPadFlashzilla3.png" height="250">
+<img alt="iPadFlashzilla4.png" src="/Mockups/iPadFlashzilla4.png" height="250">
+<img alt="iPadFlashzilla5.png" src="/Mockups/iPadFlashzilla5.png" height="250">
+<img alt="iPadFlashzilla6.png" src="/Mockups/iPadFlashzilla6.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
