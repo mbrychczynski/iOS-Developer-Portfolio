@@ -157,13 +157,17 @@ The game will show players a random eight-letter word, and ask them to make word
 >|  iPadOS    |    Bundle    |
 >|            |UITextChecker |
 
-## [BetterRest]()
+## [BetterRest](https://github.com/mbrychczynski/swift-iOS/tree/main/BetterRest)
 The app is designed to help coffee drinkers get a good night’s sleep by asking them three questions:
 * When do they want to wake up?
 * Roughly how many hours of sleep do they want?
 * How many cups of coffee do they drink per day?
 
 Once the user gives those three values, the app will feed them into Core ML to get a result telling the user when he/she ought to go to bed.
+
+<img alt="BetterRest1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/29f49c3f-c283-48a3-bb4f-d4ad485b9977" height="350">
+<img alt="BetterRest2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/5388bf61-ef8d-452e-b034-4348759afb11" height="350">
+<img alt="BetterRest3" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/a4fd56b2-8a57-4040-a6e1-e5bff2c82a64" height="350">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
