@@ -4,15 +4,19 @@ Enthusiastically seeking an exciting opportunity as a Junior iOS Developer, capi
 ## [To Do App](https://github.com/mbrychczynski/swift-iOS/tree/main/ToDoList)
 This app allows users to add, reorder, and delete tasks, as well as mark them as completed or not. It includes several SwiftUI views and a model to handle the list of items.
 
+iPhone 13 Pro Max Mockup:
 <img alt="ToDo1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/9a957d63-0e8b-433d-aae2-cee1a8fc488c" height="350">
 <img height="350" alt="ToDo2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/5db79c73-e6e1-4aff-a356-c603c3ca9840">
 <img height="350" alt="ToDo3" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/f69fb7a6-77d0-412b-ba97-6f78cd0227cf">
 <img height="350" alt="ToDo4" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/97ccf4d1-b94f-4c41-91af-ec0f7798c7b6">
 
+iPad Pro (12.9-inch) Mockup:
+
+
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |     MVVM     |
->|            |    iPadOS    |
+>|  iPadOS    |    iPadOS    |
 >|            |  Animations  |
 >|            | UserDefaults |
 >
@@ -234,7 +238,7 @@ Once the user gives those three values, the app will feed them into Core ML to g
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |    Core ML   |
+>|            |    Core ML   |
 
 ## [Rock, Paper, Scissors]()
 Simple game Rock, Paper, Scissors
