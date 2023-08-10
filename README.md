@@ -360,16 +360,14 @@ iPhone 13 Pro Max Mockup:
 ## [We Split](https://github.com/mbrychczynski/swift-iOS/tree/main/WeSplitSwiftUI)
 My first iOS App. A check-splitting app that you might use after eating at a restaurant – you enter the cost of your food, select how much of a tip you want to leave, and how many people you’re with, and it will tell you how much each person needs to pay.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="WeSplit1.png" src="/Mockups/WeSplit1.png">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |    @State    |
+>|            |    @State    |
 >|            |  @FocusState |
 
 In this project, I learned about the basic structure of SwiftUI apps. I also learned how to build forms and sections and create navigation views and navigation bar titles. Additionally, I discovered how to store program State using the @State and @FocusState property wrappers. I learned how to create user interface controls such as TextField and Picker and how to generate views in a loop using ForEach.
