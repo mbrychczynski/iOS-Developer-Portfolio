@@ -222,7 +222,7 @@ iPhone 14 Pro Max Mockup:
 iPad Pro (12.9-inch) Mockup:
 <br>
 <img alt="HabitTrackingiPad1.png" src="/Mockups/HabitTrackingiPad1.png" height="250">
-<img alt="HabitTrackingiPad2.png" src="/Mockups/HabitTrackingiPad1.png" height="250">
+<img alt="HabitTrackingiPad2.png" src="/Mockups/HabitTrackingiPad2.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
