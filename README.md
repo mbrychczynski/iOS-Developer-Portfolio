@@ -154,7 +154,7 @@ iPhone 13 Pro Max Mockup:
 >|  iPadOS    |     UIKit    |
 >|            |  Core Image  |
 
-## [Friendface]()
+## [Friendface](https://github.com/mbrychczynski/swift-iOS/tree/main/Friendface)
 The app downloads and decodes JSON from the internet and then shows it in a list.
 Friendface app uses Core Data to store a cache of data, so it works just as well offline as online.
 
