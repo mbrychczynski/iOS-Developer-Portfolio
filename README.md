@@ -144,14 +144,18 @@ The app lets the user import photos from their library, and then modify them usi
 
 iPhone 13 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="Instafilter1.png" src="/Mockups/Instafilter1.png">
+<img height="350" alt="Instafilter2.png" src="/Mockups/Instafilter2.png">
+<img height="350" alt="Instafilter3.png" src="/Mockups/Instafilter3.png">
+<img height="350" alt="Instafilter4.png" src="/Mockups/Instafilter4.png">
+<img height="350" alt="Instafilter5.png" src="/Mockups/Instafilter5.png">
+<img height="350" alt="Instafilter6.png" src="/Mockups/Instafilter6.png">
+<img height="350" alt="Instafilter7.png" src="/Mockups/Instafilter7.png">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |     UIKit    |
+>|            |     UIKit    |
 >|            |  Core Image  |
 
 ## [Friendface](https://github.com/mbrychczynski/swift-iOS/tree/main/Friendface)
