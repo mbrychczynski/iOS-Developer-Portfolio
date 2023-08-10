@@ -267,20 +267,6 @@ iPhone 13 Pro Max Mockup:
 >|    iOS     |    SwiftUI   |
 >|  iPadOS    |              |
 
-## [Animation]()
-Technique project using animation
-
-iPhone 13 Pro Max Mockup:
-<br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-
->| Platforms  | Technologies |
->|:----------:|:------------:|
->|    iOS     |    SwiftUI   |
->|  iPadOS    |  Animations  |
-
 ## [Word Scramble]()
 The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
 
