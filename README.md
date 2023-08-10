@@ -354,7 +354,7 @@ iPhone 13 Pro Max Mockup:
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |    @State    |
+>|            |    @State    |
 >|            |  @FocusState |
 
 ## [We Split](https://github.com/mbrychczynski/swift-iOS/tree/main/WeSplitSwiftUI)
