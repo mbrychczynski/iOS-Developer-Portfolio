@@ -355,7 +355,7 @@ iPad Pro (12.9-inch) Mockup:
 ## [Converter](https://github.com/mbrychczynski/swift-iOS/tree/main/Converter)
 An app that handles unit conversions: users will select an input unit and an output unit, then enter a value, and see the conversion output. The app handles converting of temperature, time, distance and mass.
 
-iPhone 14 Pro Max Mockup:
+iPhone 13 Pro Max Mockup:
 <br>
 <img height="350" alt="Converter1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/e69f0a95-9a04-41db-b1a8-99a6a3582d4c">
 <img height="350" alt="Converter2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/d09bca0e-32c3-4fe2-9fb1-c540bbac0c57">
