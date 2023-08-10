@@ -139,10 +139,10 @@ iPad Pro (12.9-inch) Mockup:
 >|            |    MVVM      |
 >|            |  Comparable  |
 
-## [Instafilter]()
+## [Instafilter](https://github.com/mbrychczynski/swift-iOS/tree/main/Instafilter)
 The app lets the user import photos from their library, and then modify them using various image effects. 
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
 <img height="350" alt="Instafilter1.png" src="/Mockups/Instafilter1.png">
 <img height="350" alt="Instafilter2.png" src="/Mockups/Instafilter2.png">
@@ -162,7 +162,7 @@ iPhone 13 Pro Max Mockup:
 The app downloads and decodes JSON from the internet and then shows it in a list.
 Friendface app uses Core Data to store a cache of data, so it works just as well offline as online.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
 <img height="350" alt="Friendface1.png" src="/Mockups/Friendface1.png">
 <img height="350" alt="Friendface2.png" src="/Mockups/Friendface2.png">
