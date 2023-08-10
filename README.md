@@ -160,14 +160,13 @@ Friendface app uses Core Data to store a cache of data, so it works just as well
 
 iPhone 13 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="Friendface1.png" src="/Mockups/Friendface1.png">
+<img height="350" alt="Friendface2.png" src="/Mockups/Friendface2.png">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |   Core Data  |
+>|            |   Core Data  |
 
 ## [Bookworm](https://github.com/mbrychczynski/swift-iOS/tree/main/Bookworm)
 App to track which books users read and what users thought of them.
