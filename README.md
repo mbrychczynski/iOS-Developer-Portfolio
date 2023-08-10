@@ -95,7 +95,7 @@ iPad Pro (12.9-inch) Mockup:
 ## [Hot Prospects](https://github.com/mbrychczynski/swift-iOS/tree/main/HotProspects)
 The app allows users to generate a QR code with basic user data. After generating the QR code, the user can exchange his electronic business card with other people. The application saves the data of scanned electronic business cards, after which the user can move the contact to the designed categories.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
 <img height="350" alt="HotProspects1" src="/Mockups/HotProspects1.png">
 <img height="350" alt="HotProspects2" src="/Mockups/HotProspects2.png">
@@ -207,16 +207,22 @@ iPhone 13 Pro Max Mockup:
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |  URLSession  |
+>|            |  URLSession  |
 
-## [Habit tracking]()
+## [Habit tracking](https://github.com/mbrychczynski/swift-iOS/tree/main/HabitTracking)
 Habit-tracking app, for people who want to keep track of how much they do certain things.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="HabitTracking1.png" src="/Mockups/HabitTracking1.png">
+<img height="350" alt="HabitTracking2.png" src="/Mockups/HabitTracking2.png">
+<img height="350" alt="HabitTracking3.png" src="/Mockups/HabitTracking3.png">
+<img height="350" alt="HabitTracking4.png" src="/Mockups/HabitTracking4.png">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="HabitTrackingiPad1.png" src="/Mockups/HabitTrackingiPad1.png" height="250">
+<img alt="HabitTrackingiPad2.png" src="/Mockups/HabitTrackingiPad1.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
@@ -224,48 +230,54 @@ iPhone 13 Pro Max Mockup:
 >|  iPadOS    | UserDefaults |
 
 
-## [Moonshot]()
+## [Moonshot](https://github.com/mbrychczynski/swift-iOS/tree/main/Moonshot)
 The app lets users learn about the missions and astronauts that formed NASA’s Apollo space program. 
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="Moonshot1.png" src="/Mockups/Moonshot1.png">
+<img height="350" alt="Moonshot2.png" src="/Mockups/Moonshot2.png">
+<img height="350" alt="Moonshot3.png" src="/Mockups/Moonshot3.png">
+<img height="150" alt="Moonshot4.png" src="/Mockups/Moonshot4.png">
+<img height="150" alt="Moonshot5.png" src="/Mockups/Moonshot5.png">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="MoonshotiPad1.png" src="/Mockups/MoonshotiPad1.png" height="250">
+<img alt="MoonshotiPad2.png" src="/Mockups/MoonshotiPad2.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
 >|  iPadOS    | GeometryReader |
 
-## [iExpense]()
+## [iExpense](https://github.com/mbrychczynski/swift-iOS/tree/main/iExpense)
 iExpense is an expense tracker that separates personal costs from business costs. At its core, this is an app with a form (how much did the user spend?) and a list (here are the amounts the user spent).
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="iExpense1.png" src="/Mockups/iExpense1.png">
+<img height="350" alt="iExpense2.png" src="/Mockups/iExpense2.png">
+<img height="350" alt="iExpense3.png" src="/Mockups/iExpense3.png">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    | @StateObject |
+>|            | @StateObject |
 >|            | UserDefaults |
 
-## [Edutainment]()
+## [Edutainment](https://github.com/mbrychczynski/swift-iOS/tree/main/Edutainment)
 The app for kids to help them practice multiplication tables – “What is 7 x 8?” and so on.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="Edutainment1.png" src="/Mockups/Edutainment1.png">
+<img height="350" alt="Edutainment2.png" src="/Mockups/Edutainment2.png">
+<img height="350" alt="Edutainment3.png" src="/Mockups/Edutainment3.png">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |              |
 
 ## [Word Scramble](https://github.com/mbrychczynski/swift-iOS/tree/main/WordScramble)
 The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
