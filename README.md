@@ -21,10 +21,8 @@ iPad Pro (12.9-inch) Mockup:
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |     MVVM     |
->|  iPadOS    |    iPadOS    |
+>|  iPadOS    | UserDefaults |
 >|            |  Animations  |
->|            | UserDefaults |
->
 
 ## [Snow Seeker](https://github.com/mbrychczynski/swift-iOS/tree/main/SnowSeeker)
 An app to let users browse ski resorts around the world, to help them find one suitable for their next holiday. Users can mark their favourite resort. 
