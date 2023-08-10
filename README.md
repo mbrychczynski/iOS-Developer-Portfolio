@@ -97,9 +97,13 @@ The app allows users to generate a QR code with basic user data. After generatin
 
 iPhone 13 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="HotProspects1" src="/Mockups/HotProspects1.png">
+<img height="350" alt="HotProspects2" src="/Mockups/HotProspects2.png">
+<img height="350" alt="HotProspects3" src="/Mockups/HotProspects3.png">
+<img height="350" alt="HotProspects4" src="/Mockups/HotProspects4.png">
+<img height="350" alt="HotProspects5" src="/Mockups/HotProspects5.png">
+<img height="350" alt="HotProspects6" src="/Mockups/HotProspects6.png">
+<img height="250" alt="HotProspects7" src="/Mockups/HotProspects7.jpg">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
