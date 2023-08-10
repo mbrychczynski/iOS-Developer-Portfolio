@@ -272,9 +272,9 @@ The game will show players a random eight-letter word, and ask them to make word
 
 iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="WordScramble1.png" src="/Mockups/WordScramble1.png“>
-<img height="350" alt="WordScramble2.png" src="/Mockups/WordScramble2.png“>
-<img height="350" alt="WordScramble3.png" src="/Mockups/WordScramble3.png“>
+<img height="350" alt="WordScramble1.png" src="/Mockups/WordScramble1.png">
+<img height="350" alt="WordScramble2.png" src="/Mockups/WordScramble2.png">
+<img height="350" alt="WordScramble3.png" src="/Mockups/WordScramble3.png">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
