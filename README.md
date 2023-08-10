@@ -270,11 +270,11 @@ iPhone 13 Pro Max Mockup:
 ## [Word Scramble]()
 The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="WordScramble1.png" src="/Mockups/WordScramble1.png“>
+<img height="350" alt="WordScramble2.png" src="/Mockups/WordScramble2.png“>
+<img height="350" alt="WordScramble3.png" src="/Mockups/WordScramble3.png“>
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
@@ -306,9 +306,15 @@ Simple game Rock, Paper, Scissors
 
 iPhone 14 Pro Max Mockup:
 <br>
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
-<img height="350" alt="" src="">
+<img height="350" alt="RockPaperScissors1.png" src="/Mockups/RockPaperScissors1.png">
+<img height="350" alt="RockPaperScissors2.png" src="/Mockups/RockPaperScissors2.png">
+<img height="350" alt="RockPaperScissors3.png" src="/Mockups/RockPaperScissors3.png">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="RockPaperScissorsiPad1.png" src="/Mockups/RockPaperScissorsiPad1.png" height="250">
+<img alt="RockPaperScissorsiPad2.png" src="/Mockups/RockPaperScissorsiPad2.png" height="250">
+<img alt="RockPaperScissorsiPad3.png" src="/Mockups/RockPaperScissorsiPad3.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
@@ -322,6 +328,12 @@ iPhone 14 Pro Max Mockup:
 <br>
 <img height="350" alt="GuessTheFlag1.png" src="/Mockups/GuessTheFlag1.png">
 <img height="350" alt="GuessTheFlag2.png" src="/Mockups/GuessTheFlag2.png">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="GuessTheFlagiPad1.png" src="/Mockups/GuessTheFlagiPad1.png" height="250">
+<img alt="GuessTheFlagiPad2.png" src="/Mockups/GuessTheFlagiPad2.png" height="250">
+<img alt="GuessTheFlagiPad3.png" src="/Mockups/GuessTheFlagiPad3.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
