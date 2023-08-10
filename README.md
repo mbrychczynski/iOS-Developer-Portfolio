@@ -108,7 +108,7 @@ iPhone 13 Pro Max Mockup:
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |   Core Image  |
+>|            |   Core Image  |
 >|            | Swift Package Manager |
 >|            | UserNotifications |
 >|            | UserDefaults |
@@ -116,13 +116,20 @@ iPhone 13 Pro Max Mockup:
 ## [Bucket List](https://github.com/mbrychczynski/swift-iOS/tree/main/BucketList)
 The app lets the user build a private list of places on the map that they intend to visit one day, add a description for that place, look up interesting places that are nearby, and save it all to the iOS storage for later.
 
-iPhone 13 Pro Max Mockup:
+iPhone 14 Pro Max Mockup:
 <br>
 <img height="350" alt="BucketList1" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/61ba0040-14c9-4ee0-b542-13e424647753">
 <img height="350" alt="BucketList2" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/07526475-c033-4c67-b72c-4d31f6e37d67">
 <img height="350" alt="BucketList3" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/a45efaaf-004a-424a-b305-aa7559690fd3">
 <img height="350" alt="BucketList4" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/e746a03b-86a9-401f-b717-8806bd80ad12">
 <img height="350" alt="BucketList5" src="https://github.com/mbrychczynski/iOS-Developer-Portfolio/assets/11407551/b50f3cf5-0397-4bfc-94b2-0c0343cdee91">
+
+iPad Pro (12.9-inch) Mockup:
+<br>
+<img alt="BucketListiPad1.png" src="/Mockups/BucketListiPad1.png" height="250">
+<img alt="BucketListiPad2.png" src="/Mockups/BucketListiPad2.png" height="250">
+<img alt="BucketListiPad3.png" src="/Mockups/BucketListiPad3.png" height="250">
+<img alt="BucketListiPad4.png" src="/Mockups/BucketListiPad4.png" height="250">
 
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
