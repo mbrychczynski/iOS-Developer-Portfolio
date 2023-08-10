@@ -267,7 +267,7 @@ iPhone 13 Pro Max Mockup:
 >|    iOS     |    SwiftUI   |
 >|  iPadOS    |              |
 
-## [Word Scramble]()
+## [Word Scramble](https://github.com/mbrychczynski/swift-iOS/tree/main/WordScramble)
 The game will show players a random eight-letter word, and ask them to make words out of it. For example, if the starter word is “alarming” they might spell “alarm”, “ring”, “main”, and so on.
 
 iPhone 14 Pro Max Mockup:
@@ -279,7 +279,7 @@ iPhone 14 Pro Max Mockup:
 >| Platforms  | Technologies |
 >|:----------:|:------------:|
 >|    iOS     |    SwiftUI   |
->|  iPadOS    |    Bundle    |
+>|            |    Bundle    |
 >|            |UITextChecker |
 
 ## [BetterRest](https://github.com/mbrychczynski/swift-iOS/tree/main/BetterRest)
@@ -301,7 +301,7 @@ iPhone 13 Pro Max Mockup:
 >|    iOS     |    SwiftUI   |
 >|            |    Core ML   |
 
-## [Rock, Paper, Scissors]()
+## [Rock, Paper, Scissors](https://github.com/mbrychczynski/swift-iOS/tree/main/RockPaperScissors)
 Simple game Rock, Paper, Scissors
 
 iPhone 14 Pro Max Mockup:
@@ -321,7 +321,7 @@ iPad Pro (12.9-inch) Mockup:
 >|    iOS     |    SwiftUI   |
 >|  iPadOS    |              |
 
-## [Guess the Flag]()
+## [Guess the Flag](https://github.com/mbrychczynski/swift-iOS/tree/main/GuessTheFlag)
 A guessing game that helps users learn some of the many flags of the world.
 
 iPhone 14 Pro Max Mockup:
